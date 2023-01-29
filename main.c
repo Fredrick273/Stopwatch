@@ -2,12 +2,8 @@
 #include<time.h>
 #include <unistd.h>
 #include <stdlib.h>
-#include <conio.h>
 #include <string.h>
-#include <fcntl.h>
 #include <pthread.h>
-#include <unistd.h>
-#include <termios.h>
 
 // starting from zero
 #define MIN 0
